@@ -18,4 +18,4 @@ learning or Deep learning technique.
 Submission
 In the form, you would have to submit the CSV file<br/>
 
-***Tried with 3 hidden layers, but it performs better with 1 or 2 hidden layers within it. That's why the other hidden layers are commented out.***
+***Tried with 3 hidden layers MLP but got only 70% accuracy on the val set. But when trained with CNN, got val set accuracy of about 90%. Hence, CNN implementation python notebook is uploaded.***
